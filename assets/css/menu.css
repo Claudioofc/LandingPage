@@ -1,4 +1,4 @@
-.menu {
+/* .menu {
     position: fixed;
     top: 0;
     left: 0;
@@ -14,6 +14,7 @@
     align-items: center;
     padding-top: 0;
     padding-bottom: 0;
+    
   }
   
   .menu h1 {
@@ -49,7 +50,12 @@
     transition: all 300ms ease-in-out;
   }
   
-  .menu ul li a:hover::after {
-    width: 50%;
-    left: 25%;
-  }
+
+  aside #header nav ul li a:hover {
+    color: #666666; 
+}
+
+
+aside #header .Logo h1:hover {
+    color: #666666; 
+} */
